@@ -1,0 +1,48 @@
+body{
+  background:linear-gradient(90deg, rgb(7, 135, 158), rgb(6, 41, 117));
+  align-items: center;
+}
+.carta{
+  background-color: rgb(109, 109, 109);
+  margin-top: 20%;
+width: 25%;
+height: 40%;
+margin-left: 35%;
+
+}
+.textos{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+.autores{
+  font-style: italic;
+  font-size: 14px;
+  align-content: flex-start;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
